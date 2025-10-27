@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brian Sifuna Obware</h1>
+<h1 align="center">Hello , I'm Brian Sifuna Obware</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
-- 🌱 I’m currently learning **Python, SQL, R and Tableau**
+-  I’m currently learning **Python, SQL, R and Tableau**
 
-- 💬 Ask me about **Python, R and SQL**
+-  Ask me about **Python, R and SQL**
 
-- 📫 How to reach me **briansifunaobware2@gmail.com**
+-  How to reach me **briansifunaobware2@gmail.com**
   ![image](https://github.com/user-attachments/assets/febdbd8d-c9e5-492c-9233-1a78331fe3c1)
 
 
